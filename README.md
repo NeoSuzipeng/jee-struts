@@ -1,9 +1,9 @@
 # 河南省高考报考搭车指南 Version 1.0
 
-### 提示：手机阅读下滑到最低端点击Desktop version
+### 提示：手机阅读下滑到最底部点击Desktop version
 ## 参考资料
-[河南省一分一段表](http://gaokao.2018.cn/henan/70793.html "河南省一分一段表")
-[河南省高校历年录取分数线查询软件-高考帮](http://college.gaokao.com/schpoint/b22/ "高考帮")
+- [河南省一分一段表](http://gaokao.2018.cn/henan/70793.html "河南省一分一段表")
+- [河南省高校历年录取分数线查询软件-高考帮](http://college.gaokao.com/schpoint/b22/ "高考帮")
 
 ## 资料使用手册
 1. 查询本人应届高考分数 例如：2015年 523分
